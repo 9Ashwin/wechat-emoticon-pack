@@ -1,0 +1,998 @@
+{
+  "schema_version": 1,
+  "collection": "curated",
+  "items": [
+    {
+      "md5": "01a55e0b09b6c224834ce3eaba68759e",
+      "sha256": "cab1c5cf0179df55fe38df87801586a07cdc14a787f445a68044ce360af891d1",
+      "filename": "emoticons/01a55e0b09b6c224834ce3eaba68759e.png",
+      "format": "png",
+      "size": 65536,
+      "caption": "水豚淋雨满脸汗，无奈低落；文字：就让这大雨全部落下"
+    },
+    {
+      "md5": "04c20daaa151f949a54f48da0a7bf239",
+      "sha256": "60655e053b79ad49f42b0d66fc43b927e2005fe8e83fe405d7a3f27683acbd95",
+      "filename": "emoticons/04c20daaa151f949a54f48da0a7bf239.gif",
+      "format": "gif",
+      "size": 59223,
+      "caption": "戴紫色睡帽的白色卡通角色躲在被子后，委屈困倦"
+    },
+    {
+      "md5": "05272592d13773b07825f99a9325f1f6",
+      "sha256": "bc650ea0d15f2db4ce6860bb4ffa6bb1b237d4e42b120153bf354930e6e8c16f",
+      "filename": "emoticons/05272592d13773b07825f99a9325f1f6.png",
+      "format": "png",
+      "size": 58803,
+      "caption": "白色小动物拿冰淇淋站在旋转木马旁；文字：儿童节快乐"
+    },
+    {
+      "md5": "075367d91ae84ceeacf7fe78505f1f2e",
+      "sha256": "cbe870c2399ae13d0465c61d41be54e5ec2b1919ebea0443036630d01c57741a",
+      "filename": "emoticons/075367d91ae84ceeacf7fe78505f1f2e.png",
+      "format": "png",
+      "size": 74270,
+      "caption": "橘猫脸上加载图标，发呆卡住；文字：周一周一，大脑宕机"
+    },
+    {
+      "md5": "07e2a5965c0b9585065a4ac8036f16c3",
+      "sha256": "37f1bd84764b4c9a835593292326f0c3b8cb924438c9449e4b95dd64deb25be2",
+      "filename": "emoticons/07e2a5965c0b9585065a4ac8036f16c3.png",
+      "format": "png",
+      "size": 120017,
+      "caption": "手写字：知道了，你厉害；敷衍认可"
+    },
+    {
+      "md5": "0824a8f30e89230b61b4bf326eaa607c",
+      "sha256": "2d0a02eed96bf303eca7d7482d0c947a7ab52616b0ef70a951b855eff3f09161",
+      "filename": "emoticons/0824a8f30e89230b61b4bf326eaa607c.gif",
+      "format": "gif",
+      "size": 150002,
+      "caption": "橘色卡通猫与灰白卡通猫对角分屏，夸张冲击线，震惊激动"
+    },
+    {
+      "md5": "09def8e2c21d4cabf5a405f311597395",
+      "sha256": "15d4d91f0106d509c90a7f91d8dcdb65c45ea2c463fbd36d0453eca7d170ddb3",
+      "filename": "emoticons/09def8e2c21d4cabf5a405f311597395.gif",
+      "format": "gif",
+      "size": 1046,
+      "caption": "红色印章文字：同意楼上意见；赞同附议"
+    },
+    {
+      "md5": "0be7588f0f95a672814e42bb8852339f",
+      "sha256": "fa3927225491ce6c11e2ece129fbe6fa97d4d6d365599dac55409f68322d1bb8",
+      "filename": "emoticons/0be7588f0f95a672814e42bb8852339f.png",
+      "format": "png",
+      "size": 45871,
+      "caption": "简笔画白猫闭眼敬礼流泪，强颜欢笑"
+    },
+    {
+      "md5": "0c39c69d3147093a26c2da4509d2eae2",
+      "sha256": "431ffeb48abc8c77eebc8feaadc8db350a1b250ed8e3c6ca2827e09d9ba3fc70",
+      "filename": "emoticons/0c39c69d3147093a26c2da4509d2eae2.png",
+      "format": "png",
+      "size": 12055,
+      "caption": "电脑蓝屏配大眼流口水卡通脸；文字：用户已宕机"
+    },
+    {
+      "md5": "0d0a1a25a067c53ad6abbb640700cbe8",
+      "sha256": "fc2b7c3bb554215ba61ed0642a3c79502341d430bb76f2b790e431b322785349",
+      "filename": "emoticons/0d0a1a25a067c53ad6abbb640700cbe8.gif",
+      "format": "gif",
+      "size": 260534,
+      "caption": "灰白卡通猫双手捧蓝色小物品贴近嘴边，脸红害羞"
+    },
+    {
+      "md5": "0d81954bd3a08e034e1f7f03dc837a50",
+      "sha256": "6e833bfc9a0771bb83f8013ca78e9b7b2f95151ed1d6c77e72609b0c01379b1a",
+      "filename": "emoticons/0d81954bd3a08e034e1f7f03dc837a50.png",
+      "format": "png",
+      "size": 120994,
+      "caption": "戴墨镜的橘猫举红酒杯，慵懒享受"
+    },
+    {
+      "md5": "0e1bc44ba6ca4b93e233a43c7653e402",
+      "sha256": "3f01939edc379e1bfa0228d111885ed6ab0c802d5b338890c6c4a4fc6c6ee9b1",
+      "filename": "emoticons/0e1bc44ba6ca4b93e233a43c7653e402.gif",
+      "format": "gif",
+      "size": 388424,
+      "caption": "戴耳机的卡通猫按游戏摇杆按钮；文字：上号"
+    },
+    {
+      "md5": "0e4082c97e6010f14a5947e802834169",
+      "sha256": "8574b3f49f414c37fda62ca1dfdba0d0acd0063e3af5e035b08ed599c67e4570",
+      "filename": "emoticons/0e4082c97e6010f14a5947e802834169.jpg",
+      "format": "jpg",
+      "size": 5797,
+      "caption": "白猫探头，面无表情"
+    },
+    {
+      "md5": "107f72b1a66933432c577b1b3bf57527",
+      "sha256": "017793d9813ddf217344705da57231c9e8158f7b570e2a9f8f5fb154b0526ca3",
+      "filename": "emoticons/107f72b1a66933432c577b1b3bf57527.gif",
+      "format": "gif",
+      "size": 29394,
+      "caption": "白色圆环加载图标，等待缓冲"
+    },
+    {
+      "md5": "10e745faed9d13698d812e1c6819020e",
+      "sha256": "d0e4cbb14c2d1c6921eafd8f0680e5c7d91a8507b151c0709be030033d0891c3",
+      "filename": "emoticons/10e745faed9d13698d812e1c6819020e.png",
+      "format": "png",
+      "size": 59898,
+      "caption": "绿色大眼青蛙侧脸，呆呆凝视"
+    },
+    {
+      "md5": "11a3905935f6e8429c88a1fb6cab34a6",
+      "sha256": "722c5b7d28abb58201d513ad408b21c15d20aec7944d13c9ff69988528d2a093",
+      "filename": "emoticons/11a3905935f6e8429c88a1fb6cab34a6.gif",
+      "format": "gif",
+      "size": 129898,
+      "caption": "灰白卡通猫盖着星星被子，只露出头，睡觉休息"
+    },
+    {
+      "md5": "12201e82894e4350929986fa136cfed5",
+      "sha256": "d5ab98f66fb8ee373ba81b430a86c71824cf90452895991e0f38260fd5b9417a",
+      "filename": "emoticons/12201e82894e4350929986fa136cfed5.gif",
+      "format": "gif",
+      "size": 126101,
+      "caption": "灰白卡通猫抱手机冒汗，大眼紧张"
+    },
+    {
+      "md5": "1744ced48897ea23b26efb9ccbf854b3",
+      "sha256": "d664eb5a8f6158c5e79db07588149aa62f768ac9b8d64a83e07f79428bef293c",
+      "filename": "emoticons/1744ced48897ea23b26efb9ccbf854b3.png",
+      "format": "png",
+      "size": 21780,
+      "caption": "一双大眼睛，围观盯着看"
+    },
+    {
+      "md5": "183dcc5868a9096be405bb0da139e433",
+      "sha256": "3d6b6e9e82677ccb3a8f5c29ed1729b8de1f245f9952f05a51a1796a73705cf2",
+      "filename": "emoticons/183dcc5868a9096be405bb0da139e433.png",
+      "format": "png",
+      "size": 7302,
+      "caption": "小尺寸柴犬狗头侧眼笑，调侃"
+    },
+    {
+      "md5": "23cde8b3502dd309437a19b49e26af9c",
+      "sha256": "378b0ebcd0e884ec4477bd11d1e244bb827759d54ff1fe10fa57e7504409a830",
+      "filename": "emoticons/23cde8b3502dd309437a19b49e26af9c.gif",
+      "format": "gif",
+      "size": 218809,
+      "caption": "橘猫和灰白猫分屏，举粉丝应援牌自拍，追星支持"
+    },
+    {
+      "md5": "2552322aa65d41137e6a3446cf4e33a4",
+      "sha256": "d7b9199f05e8dcc3279dfa6c19f03651d12489ca40041336a7df7baf251e3639",
+      "filename": "emoticons/2552322aa65d41137e6a3446cf4e33a4.gif",
+      "format": "gif",
+      "size": 146162,
+      "caption": "卡通猫一边看手机一边举消毒水，皱眉嫌弃"
+    },
+    {
+      "md5": "262bf0c577654808e9b0e99b1c59d82f",
+      "sha256": "940c8ca94a2d10f3db771d2f9b694a63681cf17d00ee2aea98bcbfa69b4fadc3",
+      "filename": "emoticons/262bf0c577654808e9b0e99b1c59d82f.gif",
+      "format": "gif",
+      "size": 460562,
+      "caption": "戴耳机的卡通猫在电脑前打游戏；文字：熬夜冠军"
+    },
+    {
+      "md5": "288507dca1857f4c4342221e3d56e269",
+      "sha256": "442c3fec3ec8724eb53ee333538306fec37f6bb3ca8d63261696c8a2c9717bf4",
+      "filename": "emoticons/288507dca1857f4c4342221e3d56e269.gif",
+      "format": "gif",
+      "size": 88533,
+      "caption": "黄色尖叫表情举起双手，逐渐化成黑色颗粒消散，崩溃"
+    },
+    {
+      "md5": "2b9c07685e0237bbf90827857aad0fcd",
+      "sha256": "8f52ecbc5a7ba34bd2d4a0215882aff3bd24278b2070212babe08f789d2852f8",
+      "filename": "emoticons/2b9c07685e0237bbf90827857aad0fcd.gif",
+      "format": "gif",
+      "size": 47450,
+      "caption": "熊猫头人脸泛红，皱眉不满"
+    },
+    {
+      "md5": "2c251c146486f5d0f11993d2cc8c9b03",
+      "sha256": "92bfc2b77288ee6c3755083af47977c6408ef50c9142dd22779bc817d88978f1",
+      "filename": "emoticons/2c251c146486f5d0f11993d2cc8c9b03.gif",
+      "format": "gif",
+      "size": 145513,
+      "caption": "卡通猫在键盘前咬住椅背，激动抓狂"
+    },
+    {
+      "md5": "2ed33d051e223be351336a7de04d9f27",
+      "sha256": "94c512a6f644da2ca6f437cd26312c9754ba8a3fe524e975a7bf5ca093ba3664",
+      "filename": "emoticons/2ed33d051e223be351336a7de04d9f27.png",
+      "format": "png",
+      "size": 74371,
+      "caption": "红底黄字：大胆，现有华为后有天；夸张调侃"
+    },
+    {
+      "md5": "30db49460c1a55fd0435081c15b78180",
+      "sha256": "44661c526614e876c1ee1338b6881185fc059dd60aaef4ca1797608a60539fce",
+      "filename": "emoticons/30db49460c1a55fd0435081c15b78180.gif",
+      "format": "gif",
+      "size": 28268,
+      "caption": "黑白圆脸小企鹅举手，呆萌招呼"
+    },
+    {
+      "md5": "33a4baeca656b5c45eeab47efebf7a32",
+      "sha256": "b89d6a741c616dd23ed63dd486ee3159b7ce426eaeca6ac99f8cafdc7e0f4e60",
+      "filename": "emoticons/33a4baeca656b5c45eeab47efebf7a32.gif",
+      "format": "gif",
+      "size": 98185,
+      "caption": "小橘猫趴在灰白卡通猫头上，贴贴陪伴"
+    },
+    {
+      "md5": "3663e42b3c88961253303b4b72d8bd52",
+      "sha256": "81d44fb631c9aeb897af50836dd2c446e320f3ecaa37194d7c9fe878f8e1134b",
+      "filename": "emoticons/3663e42b3c88961253303b4b72d8bd52.gif",
+      "format": "gif",
+      "size": 78658,
+      "caption": "卡通猫坐在电脑键盘前低头玩手机，摸鱼"
+    },
+    {
+      "md5": "379352d1db31c5ecd00d527a5e4c95c7",
+      "sha256": "282312551f34ff39276928afb2b2dd2cd2bda4b01cd71d7f2c24e76af9bdd10d",
+      "filename": "emoticons/379352d1db31c5ecd00d527a5e4c95c7.gif",
+      "format": "gif",
+      "size": 508143,
+      "caption": "卡通猫坐在电脑前捂脸，疲惫头疼"
+    },
+    {
+      "md5": "38e6e03b97b3efa6d496121b46aa9c58",
+      "sha256": "381358a87250b25e67d47898881de5319d21de0b3d4359b52c65434985fa651c",
+      "filename": "emoticons/38e6e03b97b3efa6d496121b46aa9c58.png",
+      "format": "png",
+      "size": 53034,
+      "caption": "沧桑水豚胡茬满脸，手拿茶壶；文字：沧桑"
+    },
+    {
+      "md5": "3b418ca7d20e2f6a7462abaee7ad16d5",
+      "sha256": "5fe123ed2512579f0a2ba88320d6c10415df4376bdfd5005986cc7e4611e833e",
+      "filename": "emoticons/3b418ca7d20e2f6a7462abaee7ad16d5.png",
+      "format": "png",
+      "size": 83622,
+      "caption": "紫发动漫角色困倦打招呼；文字：早安"
+    },
+    {
+      "md5": "3f6086f48537cd8e9a783e3d4c12f768",
+      "sha256": "d1d6411085dbba1c7451a1e83e803e05d0b499512ca3db862ee3eeb08503f272",
+      "filename": "emoticons/3f6086f48537cd8e9a783e3d4c12f768.gif",
+      "format": "gif",
+      "size": 303846,
+      "caption": "两只卡通猫手机聊天，灰白猫拿玫瑰，送花示好"
+    },
+    {
+      "md5": "4139c2462cb78380beb17afe487e1e38",
+      "sha256": "529baa9f66b30d07b1f57266cc0d9284a1c3210837a4f82747466cf0d9f3915c",
+      "filename": "emoticons/4139c2462cb78380beb17afe487e1e38.gif",
+      "format": "gif",
+      "size": 23213,
+      "caption": "黄绿色红脸鹦鹉歪头，大眼呆萌"
+    },
+    {
+      "md5": "41c996b0306cb80b3fcf2e298384ca19",
+      "sha256": "64466a991d80c41336ec8ede6948866cb2c6efa8a07c047b7b6604d03cc5665c",
+      "filename": "emoticons/41c996b0306cb80b3fcf2e298384ca19.gif",
+      "format": "gif",
+      "size": 85684,
+      "caption": "卡通猫瘫在电脑椅上，尾巴翘在显示器前，摸鱼休息"
+    },
+    {
+      "md5": "421624306acb14ed05b012b2f8419fb7",
+      "sha256": "a946d50fc2e21f8b237b52f9bc6cb711e54f68f4c80d7c7cb342a47ed7bc57cb",
+      "filename": "emoticons/421624306acb14ed05b012b2f8419fb7.gif",
+      "format": "gif",
+      "size": 43214,
+      "caption": "灰白卡通猫坐在笔记本电脑前，呆萌办公"
+    },
+    {
+      "md5": "422971f921ca15b1b8f97b32261f8d2f",
+      "sha256": "ba7be9a934368af0fc453721e2d85c93594b426c69d7684323cb4f4a3ee8a3f8",
+      "filename": "emoticons/422971f921ca15b1b8f97b32261f8d2f.gif",
+      "format": "gif",
+      "size": 490047,
+      "caption": "卡通猫窝在被子里看手机，双眼发亮，兴奋"
+    },
+    {
+      "md5": "43c2fbb00d5ae0255d835efa92dabe1f",
+      "sha256": "4ccb6de500127c1d1e99e4cca89b939c7307859c7e7490801118da650a23dc64",
+      "filename": "emoticons/43c2fbb00d5ae0255d835efa92dabe1f.png",
+      "format": "png",
+      "size": 14148,
+      "caption": "两只戴黑袖口的小手击拳，默契合作"
+    },
+    {
+      "md5": "43f4aa84197f1306b0173fd74411c431",
+      "sha256": "6b036f0c4c4c168f9da3b048a3eecbef4a60dddec8ea02bf9802f1da5e932fbc",
+      "filename": "emoticons/43f4aa84197f1306b0173fd74411c431.gif",
+      "format": "gif",
+      "size": 6275,
+      "caption": "黑底 ChatGPT 图标和 Thinking 字样，思考中"
+    },
+    {
+      "md5": "453b9dc429a83bd0576e51a41c56a83f",
+      "sha256": "86de14b05c5b74ec83e6ad6d81f2e4405e92d53d7978834fc8210480cd70e2b5",
+      "filename": "emoticons/453b9dc429a83bd0576e51a41c56a83f.gif",
+      "format": "gif",
+      "size": 504721,
+      "caption": "卡通猫靠在椅子上揉肚子，慵懒舒服"
+    },
+    {
+      "md5": "467e91a1870161f57b35e09fd5058a58",
+      "sha256": "8bb02ec762a958395ffed5e5f081269acfe34f28ab1ba8c90fb481717aca7204",
+      "filename": "emoticons/467e91a1870161f57b35e09fd5058a58.gif",
+      "format": "gif",
+      "size": 165331,
+      "caption": "灰白卡通猫伸出一只手，招呼示意"
+    },
+    {
+      "md5": "49d98bc47389f9165594791cb3c8c54d",
+      "sha256": "df7d712855c88faf2a48d22b5529c413c9c9cb09c6d644d5a28dd82dcc6635ce",
+      "filename": "emoticons/49d98bc47389f9165594791cb3c8c54d.gif",
+      "format": "gif",
+      "size": 791988,
+      "caption": "白猫眯眼张嘴，嫌弃不耐烦"
+    },
+    {
+      "md5": "4a86a4a604fe78b09ae7d299e542820c",
+      "sha256": "b029bf744844abdfc00d22ae0fcdc071ffc5684385195a8171e1598895cd2a85",
+      "filename": "emoticons/4a86a4a604fe78b09ae7d299e542820c.gif",
+      "format": "gif",
+      "size": 229983,
+      "caption": "卡通猫举相机拍照，记录留念"
+    },
+    {
+      "md5": "4db2902a1699ca1e2b2bee2fed311a54",
+      "sha256": "8f85011b1bf0ae21589d76bad831ff4180133ff58a8351f351a6f706f8c730fe",
+      "filename": "emoticons/4db2902a1699ca1e2b2bee2fed311a54.gif",
+      "format": "gif",
+      "size": 25081,
+      "caption": "小橘猫拿手机探头看灰白猫，灰白猫眼睛冒星星"
+    },
+    {
+      "md5": "4ff9b6a49137631922bc27b8984099b6",
+      "sha256": "3c0176c6c46c67102e88752f60968d269cffad48dec210bb05b0ffb5b9b0db83",
+      "filename": "emoticons/4ff9b6a49137631922bc27b8984099b6.gif",
+      "format": "gif",
+      "size": 227529,
+      "caption": "灰白卡通猫抱手机身体向前拉长，飞奔冲刺造型"
+    },
+    {
+      "md5": "5146105ee89e2cf259b231b41d3d0fde",
+      "sha256": "d3d80289be2990abfc17fa53475360857a14c49918a0ff2c71b4cc9f23fe7461",
+      "filename": "emoticons/5146105ee89e2cf259b231b41d3d0fde.gif",
+      "format": "gif",
+      "size": 265136,
+      "caption": "两只卡通猫手机聊天，上方空白对话气泡"
+    },
+    {
+      "md5": "5151c15956f75e8fcca23a02b6e2b3ad",
+      "sha256": "e43b76bc9de6ef51917e4bfa801e156d54d5bca3a0e195b1560fce2ee3c6528c",
+      "filename": "emoticons/5151c15956f75e8fcca23a02b6e2b3ad.png",
+      "format": "png",
+      "size": 337244,
+      "caption": "橘猫举着黑色枪口朝镜头，威胁式搞怪"
+    },
+    {
+      "md5": "51c563913ed6f2309db87fee8eeccfec",
+      "sha256": "fae79e5c75d3403a838d83babae87617c72a7b8990622b337d58662d3b67b448",
+      "filename": "emoticons/51c563913ed6f2309db87fee8eeccfec.png",
+      "format": "png",
+      "size": 16388,
+      "caption": "两条虚线鱼轮廓；文字：无鱼、无鱼死了；无语谐音"
+    },
+    {
+      "md5": "5463608e9e3c3a1bd8c1668fbcda18df",
+      "sha256": "b4bb51eb0b43a5a8d53e257564c2de85fb834cb48cb2efccf0cb88948b3876c0",
+      "filename": "emoticons/5463608e9e3c3a1bd8c1668fbcda18df.gif",
+      "format": "gif",
+      "size": 503553,
+      "caption": "橙色圆脸卡通角色戴帽子，呆呆发愣"
+    },
+    {
+      "md5": "549eb34355642b97c18c1a2b9d0bc4ef",
+      "sha256": "6166cd9c3dde93646479d95558143db45e9fc6f2489e556c2e97f8283d7b4b68",
+      "filename": "emoticons/549eb34355642b97c18c1a2b9d0bc4ef.gif",
+      "format": "gif",
+      "size": 32883,
+      "caption": "灰白卡通猫张嘴瞪眼，周围怒气线，生气炸毛"
+    },
+    {
+      "md5": "54cf6ca6abef39d19888c8446e8eb076",
+      "sha256": "dbedabec3ad4973581206dd8a7d80e1a76df81967df6436b6f1bc2f8f5b906bb",
+      "filename": "emoticons/54cf6ca6abef39d19888c8446e8eb076.gif",
+      "format": "gif",
+      "size": 29687,
+      "caption": "卡通猫窝在懒人沙发里看手机，放松摸鱼"
+    },
+    {
+      "md5": "54e27695d53726791e2f12404b24b5d8",
+      "sha256": "9e74c48e1e9541391bed0537b92e83b65725c993026995bbf8d8993793d8ecd4",
+      "filename": "emoticons/54e27695d53726791e2f12404b24b5d8.gif",
+      "format": "gif",
+      "size": 1097805,
+      "caption": "两个企鹅玩偶伸出粉色长舌头，搞怪"
+    },
+    {
+      "md5": "55232d202fdb10fb54eff85a1438b1dd",
+      "sha256": "8231f71a13a47c160b36f7eac2788dd17a19d0c1e0c4a0e01e129bbb6cd9e44d",
+      "filename": "emoticons/55232d202fdb10fb54eff85a1438b1dd.gif",
+      "format": "gif",
+      "size": 43171,
+      "caption": "卡通猫瘫在电脑椅上仰头，疲倦发呆"
+    },
+    {
+      "md5": "581ee4548d6f2d34dc4a5a1f52b08ec4",
+      "sha256": "025c3b8f1b904b2196a610260281ae6ad647c80556e33c7a1d5132729c16163c",
+      "filename": "emoticons/581ee4548d6f2d34dc4a5a1f52b08ec4.gif",
+      "format": "gif",
+      "size": 105528,
+      "caption": "两只卡通猫手机聊天，灰白猫举猫爪带问号，疑惑"
+    },
+    {
+      "md5": "5cf60ced9ca6891a096a61be9019f5aa",
+      "sha256": "416150d47d626d907705597640aa3f692398e4de8ae5db31a2264ff426d8e95c",
+      "filename": "emoticons/5cf60ced9ca6891a096a61be9019f5aa.gif",
+      "format": "gif",
+      "size": 70944,
+      "caption": "小橘猫举手机点赞，气泡 Good，认可夸奖"
+    },
+    {
+      "md5": "5fdf7ec95a970ca7e24bdd059ab70e4c",
+      "sha256": "26549fc94b3c579f1669053d0c227ce301dcbccd4286c2fd5e2859281d4e130b",
+      "filename": "emoticons/5fdf7ec95a970ca7e24bdd059ab70e4c.gif",
+      "format": "gif",
+      "size": 102728,
+      "caption": "卡通猫双手按住太阳穴，键盘前头疼烦躁"
+    },
+    {
+      "md5": "649255cfca27f52d87d9b5164870479b",
+      "sha256": "f8506a9b94f939a40eb967efd97ee3a1ade34e3cb4a70eabffc1858753eb1ce2",
+      "filename": "emoticons/649255cfca27f52d87d9b5164870479b.gif",
+      "format": "gif",
+      "size": 186998,
+      "caption": "灰白卡通猫仰躺举手机，躺平看手机"
+    },
+    {
+      "md5": "6963300430027e72e36b4a4d5082eed5",
+      "sha256": "e411ad8603c6cc1e8ccbe5f042f4cd0f78ca9da8fc1ca55307340299ca04bde7",
+      "filename": "emoticons/6963300430027e72e36b4a4d5082eed5.gif",
+      "format": "gif",
+      "size": 134565,
+      "caption": "灰白卡通猫双手靠近嘴边，紧张害羞"
+    },
+    {
+      "md5": "69ecefd04f80348ebcce0a98d1dd8ca2",
+      "sha256": "9125ffa22c0f7fd2c515643fb44a5f19403d4e2892afccfbcc6c99a71f977494",
+      "filename": "emoticons/69ecefd04f80348ebcce0a98d1dd8ca2.gif",
+      "format": "gif",
+      "size": 113948,
+      "caption": "橘色小猫与灰白猫挤在一起看手机，贴贴分享"
+    },
+    {
+      "md5": "6a320a24e577dbcb284e5ec147e52262",
+      "sha256": "48c545f50095bc26fae6abd23c2b6adb6488d793a19dcfc6726c1463b08d8d1a",
+      "filename": "emoticons/6a320a24e577dbcb284e5ec147e52262.gif",
+      "format": "gif",
+      "size": 305368,
+      "caption": "灰白卡通猫抓着白色圆形气球状物，悬挂造型"
+    },
+    {
+      "md5": "6a7f0ec93b46988340221d6bc7fbf205",
+      "sha256": "4e2cbd422d412c25337621faa55c39d5aa490292eb0d0f73133ff2e1ecfc47be",
+      "filename": "emoticons/6a7f0ec93b46988340221d6bc7fbf205.png",
+      "format": "png",
+      "size": 102046,
+      "caption": "棕色金属护手竖大拇指，点赞认可"
+    },
+    {
+      "md5": "6ba655e23725202f75e5138c1d3e30e2",
+      "sha256": "ff5c514fb50801445e55462129961f22eca56b7c566d3157d88010ca05fe6112",
+      "filename": "emoticons/6ba655e23725202f75e5138c1d3e30e2.gif",
+      "format": "gif",
+      "size": 11970,
+      "caption": "红色词语组成大拇指，文字含关爱、爱心、成功，点赞"
+    },
+    {
+      "md5": "6d55a2ee677723f0787a1716cf977e17",
+      "sha256": "ac2b2bf67aa4a283702182eb3ae4a87f5d9ce1f75dd63236586831ea98c1b35d",
+      "filename": "emoticons/6d55a2ee677723f0787a1716cf977e17.gif",
+      "format": "gif",
+      "size": 94484,
+      "caption": "灰白卡通猫双手摊开，脸红害羞"
+    },
+    {
+      "md5": "6d9f83cc47182ebba6c3b17285074f11",
+      "sha256": "4e5c587fdc28c09dc67608e346e15de43aacbd004d0530c1a93233c987e7e8c7",
+      "filename": "emoticons/6d9f83cc47182ebba6c3b17285074f11.png",
+      "format": "png",
+      "size": 12639,
+      "caption": "绿色对话框写 get，闪亮星星，明白了收到"
+    },
+    {
+      "md5": "70eb1e1dfbd6618ac4fbe1a695fdb668",
+      "sha256": "06433b785c6e88c3be770b26425bdbddc3ca927700293216a521505fba29f45f",
+      "filename": "emoticons/70eb1e1dfbd6618ac4fbe1a695fdb668.gif",
+      "format": "gif",
+      "size": 145805,
+      "caption": "两只卡通猫分屏聊天，橘猫发怒吐槽，灰白猫满头问号"
+    },
+    {
+      "md5": "714c2b6857464295bf0aa76499d96293",
+      "sha256": "3563ba18d444fddf590917e577f610fb71e57a0606c84fa69c49565cb185d4fd",
+      "filename": "emoticons/714c2b6857464295bf0aa76499d96293.gif",
+      "format": "gif",
+      "size": 466025,
+      "caption": "戴眼镜耳机的卡通猫在笔记本前喝饮料，背景喵喵文字"
+    },
+    {
+      "md5": "71e699b4570b6925a620ba369d5ea648",
+      "sha256": "9d4250d2453a06702f764ebb99d4ce2651f31fd02a9c484d6cc097248331a563",
+      "filename": "emoticons/71e699b4570b6925a620ba369d5ea648.png",
+      "format": "png",
+      "size": 25252,
+      "caption": "熊猫头叼烟坏笑；文字：放手去干吧，搞坏了换JAVA"
+    },
+    {
+      "md5": "737ee369bf5216b3b964ab04a75e3a12",
+      "sha256": "adfff28e69d5c55f9250894f9d09d6b8ddaea58bafb6514ebfa578dd33262c0f",
+      "filename": "emoticons/737ee369bf5216b3b964ab04a75e3a12.png",
+      "format": "png",
+      "size": 27893,
+      "caption": "蓝色路牌：我在工位很想家；拼音 WO XIANG XIABAN，想下班"
+    },
+    {
+      "md5": "781346b3f4aaf6dd95c1a39c3bc7eb8b",
+      "sha256": "10a3cd5476a8e2650f0f4ef7ee3a67264243cbebbf827ec17923295aa187684c",
+      "filename": "emoticons/781346b3f4aaf6dd95c1a39c3bc7eb8b.png",
+      "format": "png",
+      "size": 23248,
+      "caption": "绿色逃生标志小人抱紫色猫，带猫逃跑"
+    },
+    {
+      "md5": "7ba29f0680f53f0039d13d6c553c4d94",
+      "sha256": "1b69f82809cd3f93087c3531e9749104d9ca29a9d6f7a130789c362bd01dcdd1",
+      "filename": "emoticons/7ba29f0680f53f0039d13d6c553c4d94.png",
+      "format": "png",
+      "size": 8992,
+      "caption": "黄色狗头流泪强笑，哭笑不得"
+    },
+    {
+      "md5": "7c4659943dc596a692a60373ca8b0044",
+      "sha256": "1042bf786513ae933805ce9d7655488b89bf23f4fa282916ea51794860d4a18d",
+      "filename": "emoticons/7c4659943dc596a692a60373ca8b0044.gif",
+      "format": "gif",
+      "size": 508234,
+      "caption": "小橘猫走近坐着玩手机的灰白猫，陪伴互动"
+    },
+    {
+      "md5": "7c8e24bce4bc2febbb892bf8d39705ce",
+      "sha256": "a6469f8ade204b3ac7d2a1df4dc19aeb7eeb1d1a88ce48264e8a34457fb260a3",
+      "filename": "emoticons/7c8e24bce4bc2febbb892bf8d39705ce.png",
+      "format": "png",
+      "size": 123157,
+      "caption": "戴蓬松毛帽的猫，霸气脸；文字：狂野男孩"
+    },
+    {
+      "md5": "7ee6aa5ef0e22ff5f95f93925bc7a486",
+      "sha256": "45a1278c0145ae3aabed0b8967c3981d163261bd583daaea7dc0f6b8bfa6d3d6",
+      "filename": "emoticons/7ee6aa5ef0e22ff5f95f93925bc7a486.gif",
+      "format": "gif",
+      "size": 295705,
+      "caption": "灰白卡通猫拿蓝色小物品在身前摆弄，搞怪"
+    },
+    {
+      "md5": "7f2f665871004e138fd474e4f1977203",
+      "sha256": "e9871cf058135ea0d4f1ea43d64522d12e6b361b034957eb2d026d0d0ecd547c",
+      "filename": "emoticons/7f2f665871004e138fd474e4f1977203.gif",
+      "format": "gif",
+      "size": 480129,
+      "caption": "灰白卡通猫坐在电脑椅里发呆，桌边放手机"
+    },
+    {
+      "md5": "81bb08379033701e8596ecf9a7448a26",
+      "sha256": "0dbc5317da53015eddb20fb6321e6ca8d00298739e8c38baf552be94f3af008c",
+      "filename": "emoticons/81bb08379033701e8596ecf9a7448a26.png",
+      "format": "png",
+      "size": 174036,
+      "caption": "大眼猫张嘴震惊，右边红色感叹号"
+    },
+    {
+      "md5": "8453f11d9c3d89da70e7fce4fddace5a",
+      "sha256": "ed83e2e8c74364740dda187ef4b30a9613df7840a75df859af5f1c352b87d966",
+      "filename": "emoticons/8453f11d9c3d89da70e7fce4fddace5a.png",
+      "format": "png",
+      "size": 29391,
+      "caption": "柴犬双手合十星星眼；文字：太渴望进步了"
+    },
+    {
+      "md5": "8970dad3529edc81c12e5436449db78d",
+      "sha256": "c1615cf4e02be25ff654e8c85bee0972da6b213f25fa28331508f92042941551",
+      "filename": "emoticons/8970dad3529edc81c12e5436449db78d.gif",
+      "format": "gif",
+      "size": 253025,
+      "caption": "两只卡通猫分屏手机聊天，灰白猫伸手回应"
+    },
+    {
+      "md5": "8ba86a18054ce9828e1d443e09c90cd5",
+      "sha256": "5b9fbff2c61d4c06b701940aa2e922ec79dbdc5227271307654bb983cc22a532",
+      "filename": "emoticons/8ba86a18054ce9828e1d443e09c90cd5.gif",
+      "format": "gif",
+      "size": 244214,
+      "caption": "灰白卡通猫双手捧脸微笑，期待可爱"
+    },
+    {
+      "md5": "943784ba3356cb3a58f40a7723c74937",
+      "sha256": "09325b77685c608bd5f9ae454d05c865bf776e28958bf8c6203fc5e2050dcefb",
+      "filename": "emoticons/943784ba3356cb3a58f40a7723c74937.jpg",
+      "format": "jpg",
+      "size": 4999,
+      "caption": "灰色卡通猫瞪大眼；文字：收到！"
+    },
+    {
+      "md5": "962b5945bdde5f0d18e43f01951136a7",
+      "sha256": "1913ce3c5aee3d9cac2386e621f77bc4d2beafff95a1b749fec9f87f6c0d5b24",
+      "filename": "emoticons/962b5945bdde5f0d18e43f01951136a7.gif",
+      "format": "gif",
+      "size": 175035,
+      "caption": "两只卡通猫手机聊天，猫片文字和打码图案，惊讶搞怪"
+    },
+    {
+      "md5": "970b07e63cf7825a799bb5029ba3f6ed",
+      "sha256": "efeb12b120809700b731f1abf9b4fbce02bde5d26afff014e48e87ac94bd7a23",
+      "filename": "emoticons/970b07e63cf7825a799bb5029ba3f6ed.png",
+      "format": "png",
+      "size": 236387,
+      "caption": "简笔画白猫双眼含泪，旁边红色感叹号；文字：我需要心理委员"
+    },
+    {
+      "md5": "976454edc094f673686545e05d9bdf07",
+      "sha256": "d24d7e5d43ae6e1b51110ba9e9605546e97e0cec43bdb55515b67186ccd5a9b1",
+      "filename": "emoticons/976454edc094f673686545e05d9bdf07.png",
+      "format": "png",
+      "size": 10509,
+      "caption": "仿微信八秒语音消息气泡，带红色未读点"
+    },
+    {
+      "md5": "9a78e67cce5985e0693188a9bcd191de",
+      "sha256": "f6299a19896299e578e2ad8adc6cfabdfb44a48bd0ed13e74039da975c2db60a",
+      "filename": "emoticons/9a78e67cce5985e0693188a9bcd191de.png",
+      "format": "png",
+      "size": 22987,
+      "caption": "黑色手写字：被资本做局了；打工人吐槽"
+    },
+    {
+      "md5": "9aaa1fff3924bf8d3727402933a709d7",
+      "sha256": "80b9b98efdd95126bd93b2ae075f5cc7504383894ef76a2f342d2d1b2bd1a938",
+      "filename": "emoticons/9aaa1fff3924bf8d3727402933a709d7.png",
+      "format": "png",
+      "size": 6487,
+      "caption": "围红围巾的黑白企鹅瞪眼，旁边问号，疑惑生气"
+    },
+    {
+      "md5": "9c8b1d602dacce6fa113773a8c8af8fb",
+      "sha256": "102ff10f00e502d9dcde2a8763cbc5784c78c6cf7d13b525b2c37fa4e2978a34",
+      "filename": "emoticons/9c8b1d602dacce6fa113773a8c8af8fb.gif",
+      "format": "gif",
+      "size": 285180,
+      "caption": "卡通猫趴着玩手机，头顶气泡写浮云，躺平淡定"
+    },
+    {
+      "md5": "9ccd39578ad8fc2bbed0780b5f32fd0b",
+      "sha256": "382cbc282818ae60a66fa438b0638cbbb8c894cc17f73e0a28871f853ad7b0ba",
+      "filename": "emoticons/9ccd39578ad8fc2bbed0780b5f32fd0b.png",
+      "format": "png",
+      "size": 52752,
+      "caption": "三个狗头配仿系统提示：你被“”移出群聊；恶搞群通知"
+    },
+    {
+      "md5": "9e703b69216099f26d6df886e3cca871",
+      "sha256": "8e066c645e1d8825f13c8b3c521c7ce6a517b5f55bfbca76a1d348ae483c8030",
+      "filename": "emoticons/9e703b69216099f26d6df886e3cca871.gif",
+      "format": "gif",
+      "size": 138766,
+      "caption": "卡通小羊被手摸头，乖巧享受"
+    },
+    {
+      "md5": "9fe7f3d6df9324272f4b331b9173667e",
+      "sha256": "88996024797251b218ae570a68e1e9e7d285b3c9882e35ecb0e792762d4e3d5f",
+      "filename": "emoticons/9fe7f3d6df9324272f4b331b9173667e.gif",
+      "format": "gif",
+      "size": 3354,
+      "caption": "黄色笑脸捂脸张嘴，哭笑不得"
+    },
+    {
+      "md5": "ab97752d0c155850d50c1ca2b858efe4",
+      "sha256": "05d9197f7da1dfbcead5073cf112d894329f3c8f3483e575eecf8b1446170f16",
+      "filename": "emoticons/ab97752d0c155850d50c1ca2b858efe4.png",
+      "format": "png",
+      "size": 27166,
+      "caption": "蓝色路牌：我在公司很想死；拼音 ZHE GE BAN，厌班吐槽"
+    },
+    {
+      "md5": "ae919a14c84f62ab494f03bdd444aeb0",
+      "sha256": "3281567d3beae404e95ef519ea964a01eabef60bbfbccf58123f0ed13fb95084",
+      "filename": "emoticons/ae919a14c84f62ab494f03bdd444aeb0.gif",
+      "format": "gif",
+      "size": 504610,
+      "caption": "卡通猫窝在沙发里看手机，旁边外卖袋，等外卖"
+    },
+    {
+      "md5": "aeb1f3d21f35fe15a3cc522486376d7f",
+      "sha256": "501edfb24caf59a2c63d320bcb47a1b997bc6b2ab8c3f35997ace2679632dfbe",
+      "filename": "emoticons/aeb1f3d21f35fe15a3cc522486376d7f.gif",
+      "format": "gif",
+      "size": 226809,
+      "caption": "卡通猫把物品放进带回收标志的桶里，丢弃清理"
+    },
+    {
+      "md5": "af81c20387d56606eb4277c63e50240e",
+      "sha256": "685f793a12a563fe59115fa429f77d34ef3eea61215100d6b0edcf5cf267a4ed",
+      "filename": "emoticons/af81c20387d56606eb4277c63e50240e.gif",
+      "format": "gif",
+      "size": 5211,
+      "caption": "小尺寸柴犬狗头侧眼笑，滑稽调侃动图"
+    },
+    {
+      "md5": "b2d593aef61697c01eac88d2ce3ffb0f",
+      "sha256": "963044601e5b202d1e077b697f7b51c39b64073eba082782e114770e9c05bab0",
+      "filename": "emoticons/b2d593aef61697c01eac88d2ce3ffb0f.gif",
+      "format": "gif",
+      "size": 48654,
+      "caption": "大号黄色手掌拍向卡通猫，手机旁写+1毛，打工调侃"
+    },
+    {
+      "md5": "b7474aef74d08f7abff930f3ebbb0ed6",
+      "sha256": "2d619d58c492ee77ce346a2548e03af049aa4f33e250bf1d829be8588c6b21b7",
+      "filename": "emoticons/b7474aef74d08f7abff930f3ebbb0ed6.png",
+      "format": "png",
+      "size": 73197,
+      "caption": "戴眼镜的紫色卡通角色配代码背景；文字：加载中"
+    },
+    {
+      "md5": "bfbc2f76dd486d090e7c35b0de216ae9",
+      "sha256": "74c289b3498133c34d14928852b4e5857693ee932ad8902b890bd44ceca04ead",
+      "filename": "emoticons/bfbc2f76dd486d090e7c35b0de216ae9.gif",
+      "format": "gif",
+      "size": 190653,
+      "caption": "灰白卡通猫仰头大笑，开心"
+    },
+    {
+      "md5": "bfc65150eb1b7dcba10f7ee456878017",
+      "sha256": "af51a41bb03b2030315e8dd32a781cabf5294b1f4ab2017a963347983308760a",
+      "filename": "emoticons/bfc65150eb1b7dcba10f7ee456878017.gif",
+      "format": "gif",
+      "size": 478722,
+      "caption": "卡通猫瘫在电脑椅上，显示器有播放图标，摸鱼看视频"
+    },
+    {
+      "md5": "c0523659d5bf0ffd3f3fe26d1da44c43",
+      "sha256": "cdaf4c3a5b129b1fbb48414985b1a8ed204c3843ef372931f0844ac4ebbe9cf4",
+      "filename": "emoticons/c0523659d5bf0ffd3f3fe26d1da44c43.png",
+      "format": "png",
+      "size": 102701,
+      "caption": "白猫双手抱咖啡杯，困倦脸；文字：咖啡续命"
+    },
+    {
+      "md5": "c0d058768c09b9845ad3ab0702a9cfd3",
+      "sha256": "e0e10ac2cd7ed6dbed220aaa5a504783f9e26bc72caa35f429890743331c9454",
+      "filename": "emoticons/c0d058768c09b9845ad3ab0702a9cfd3.gif",
+      "format": "gif",
+      "size": 45246,
+      "caption": "灰白卡通猫举双手张大嘴，兴奋惊讶"
+    },
+    {
+      "md5": "c3fdbe83e20547fc66272c73cbb8bd8c",
+      "sha256": "ac6e87f7fbc2befc2b4d282c01fa2b33c53e72a7430dc258000b682cdd32350e",
+      "filename": "emoticons/c3fdbe83e20547fc66272c73cbb8bd8c.gif",
+      "format": "gif",
+      "size": 60984,
+      "caption": "白底文字：AI 思考中，带加载图标"
+    },
+    {
+      "md5": "c56366594885c78e17e018c742e5b100",
+      "sha256": "4f1e1d82fa34e20dcd967ca011c81d59690fbd5e1732890e5e98c26a1a85ba5c",
+      "filename": "emoticons/c56366594885c78e17e018c742e5b100.gif",
+      "format": "gif",
+      "size": 93106,
+      "caption": "两只卡通猫分屏手机聊天，橘猫冒汗，旁边火焰图标"
+    },
+    {
+      "md5": "c58d4aac85c0e148594a1ca66154a3d4",
+      "sha256": "111db33f1f7c2ca323a16d760096a6b53ced981da0f0d5e46893cabea256f31e",
+      "filename": "emoticons/c58d4aac85c0e148594a1ca66154a3d4.gif",
+      "format": "gif",
+      "size": 187776,
+      "caption": "两只卡通猫分屏，灰白猫举手顶起画面边框，探头互动"
+    },
+    {
+      "md5": "c822eab6d5474d3685695b0dfcbfc080",
+      "sha256": "73e826f3c5faef216cee540b5ea6eabb124cbb9cbf9035411b81d71b8ea0b032",
+      "filename": "emoticons/c822eab6d5474d3685695b0dfcbfc080.gif",
+      "format": "gif",
+      "size": 447937,
+      "caption": "黄色衣物和灰色毛绒物体的搞笑动图"
+    },
+    {
+      "md5": "ccbad3c969d187f4bb622a4fe987c72f",
+      "sha256": "a76521b7c0c9e3d7ccdacf2ecce2ac7b57ec5b974bbedddc34c4e78e22d5b71d",
+      "filename": "emoticons/ccbad3c969d187f4bb622a4fe987c72f.gif",
+      "format": "gif",
+      "size": 283387,
+      "caption": "灰白卡通猫抱着零食咀嚼，吃东西"
+    },
+    {
+      "md5": "ccf7566b7a4bb73cdb08168ea8d5b6ef",
+      "sha256": "11459aefb72d6b628db93fd04a6730b8fecab55ef55252c4a8dc8e0964d6da34",
+      "filename": "emoticons/ccf7566b7a4bb73cdb08168ea8d5b6ef.gif",
+      "format": "gif",
+      "size": 296771,
+      "caption": "灰白卡通猫拿手机，另一手举着小橘猫，展示伙伴"
+    },
+    {
+      "md5": "cec0161bca16ac6a1018df9e83c53179",
+      "sha256": "2e20491c4bdd53474bed7b7353f4db67fd24df59800bbf881f3d4fe4d0aef050",
+      "filename": "emoticons/cec0161bca16ac6a1018df9e83c53179.gif",
+      "format": "gif",
+      "size": 362956,
+      "caption": "灰白卡通猫双手捧着面包状食物，吃东西"
+    },
+    {
+      "md5": "cee4de9e3721762a55eb47a22fe34ae8",
+      "sha256": "90645dca69cac9aa83ad939b788e421a54bbc6989484001f41a146f214193dc2",
+      "filename": "emoticons/cee4de9e3721762a55eb47a22fe34ae8.png",
+      "format": "png",
+      "size": 25402,
+      "caption": "黑白猫脸双手放嘴边，紧张不敢说话；文字：唔敢声"
+    },
+    {
+      "md5": "d748d807c3bfd6005db86f94a7fa813b",
+      "sha256": "f7f9bffeed3933e63106cdb6e9ec347e71f7c5add0a1ef1516a43aba087a6b89",
+      "filename": "emoticons/d748d807c3bfd6005db86f94a7fa813b.gif",
+      "format": "gif",
+      "size": 300092,
+      "caption": "灰白卡通猫蜷起身子，爪子贴脸，可爱撒娇"
+    },
+    {
+      "md5": "ddaeaa434ee4c70b29284032b4db19a6",
+      "sha256": "fc64e4acddb5a9c9b9c64f596e0535aff4e667ed0bbed1c3952dd93eaa83385b",
+      "filename": "emoticons/ddaeaa434ee4c70b29284032b4db19a6.gif",
+      "format": "gif",
+      "size": 98940,
+      "caption": "光头男子张嘴大笑，配字“哈哈哈哈哈”"
+    },
+    {
+      "md5": "e0713099a6978eee549e2ed1e56fa6d4",
+      "sha256": "5325ef4729b56ca9f59793fc07296fb4d3facf34096cc874943b97996670d242",
+      "filename": "emoticons/e0713099a6978eee549e2ed1e56fa6d4.gif",
+      "format": "gif",
+      "size": 184668,
+      "caption": "猫脸简笔画，配字“不能笑”"
+    },
+    {
+      "md5": "e4011048113bdc7e1c90ee422b7a1ec6",
+      "sha256": "64953edacd87af0942f9e7bd0af05c3020e5731c220ef6291451f557878f2bd9",
+      "filename": "emoticons/e4011048113bdc7e1c90ee422b7a1ec6.gif",
+      "format": "gif",
+      "size": 253086,
+      "caption": "灰白卡通猫抱着小橘猫贴脸，亲昵贴贴"
+    },
+    {
+      "md5": "e65c604d608b99add773fbe7073f087c",
+      "sha256": "b0044b056e2e44e498c52905ab4dc8ea2d9e9b36a046be9981875c705bed3cad",
+      "filename": "emoticons/e65c604d608b99add773fbe7073f087c.png",
+      "format": "png",
+      "size": 129966,
+      "caption": "猫爪肉垫特写；文字：太有实力了！"
+    },
+    {
+      "md5": "e684d3767c4e5254d6af0164c766e0e6",
+      "sha256": "8512d4e1148020387ff8a251c648f48415c11fca63f84f3e751856319b587f2d",
+      "filename": "emoticons/e684d3767c4e5254d6af0164c766e0e6.png",
+      "format": "png",
+      "size": 97253,
+      "caption": "白猫夸张张大嘴笑；文字：哈哈"
+    },
+    {
+      "md5": "e780cae871824730e55ed7b712e926da",
+      "sha256": "1ae64df64a170e6abc615cf1cf95e1e147df484d603671caadaf3e8fb6698cb1",
+      "filename": "emoticons/e780cae871824730e55ed7b712e926da.png",
+      "format": "png",
+      "size": 5375,
+      "caption": "小尺寸狗头侧眼笑，旁边黄色手掌状物，调侃"
+    },
+    {
+      "md5": "e88e8b74afa443a5bfb86854d029e3b6",
+      "sha256": "c519070d8b4b65d98ebf56c972a10acec2ec203037641a4562e25d61625e01d3",
+      "filename": "emoticons/e88e8b74afa443a5bfb86854d029e3b6.gif",
+      "format": "gif",
+      "size": 495473,
+      "caption": "戴耳机的卡通猫在电脑前眼含泪光，感动委屈"
+    },
+    {
+      "md5": "e8e32b51185fa7fbecf2c26563d89d87",
+      "sha256": "f95d11b433b982ed36f39cab4add2b8fd91a01b528f51d53a469605d989ebdfc",
+      "filename": "emoticons/e8e32b51185fa7fbecf2c26563d89d87.gif",
+      "format": "gif",
+      "size": 313199,
+      "caption": "卡通猫抱枕瘫在椅子上，旁边笔记本电脑，疲倦躺平"
+    },
+    {
+      "md5": "ebf6c2d39b716c24f0092e0ed2cadc9b",
+      "sha256": "339846e340780a3465b51712efe7e839f5138cf96d66814dcba36f06a796e0e2",
+      "filename": "emoticons/ebf6c2d39b716c24f0092e0ed2cadc9b.gif",
+      "format": "gif",
+      "size": 189249,
+      "caption": "灰白卡通猫在笔记本电脑前挠头，困惑"
+    },
+    {
+      "md5": "edd270062f190f552c802d5da88822ae",
+      "sha256": "9b16b8e84f4faf29bda14a2444e5b0bd2857af43be9b44c1debec20d5b95b961",
+      "filename": "emoticons/edd270062f190f552c802d5da88822ae.gif",
+      "format": "gif",
+      "size": 205954,
+      "caption": "灰白猫从分屏边缘探头看橘猫，手机掉在下方"
+    },
+    {
+      "md5": "eef00ec95b63d87169a318d9c5333a9e",
+      "sha256": "16e0e007952d68c09f09c789d496186e533798c801f60a258c8f18541811a2df",
+      "filename": "emoticons/eef00ec95b63d87169a318d9c5333a9e.gif",
+      "format": "gif",
+      "size": 766998,
+      "caption": "戴黑帽墨镜的企鹅摆姿势，耍酷"
+    },
+    {
+      "md5": "f20fff7a66def55fa8e10d7cdc494e52",
+      "sha256": "8969a9c4cf94f69f02f7aa67d42f0a1c86b491cc7693db9901e2638e14b992d4",
+      "filename": "emoticons/f20fff7a66def55fa8e10d7cdc494e52.gif",
+      "format": "gif",
+      "size": 38854,
+      "caption": "灰白卡通猫坐椅子拿绿色冰淇淋和手机，悠闲享受"
+    },
+    {
+      "md5": "f5f6d2b34afe3cef8114ac4f6f8632df",
+      "sha256": "5128732913a496ecba916b5d090fe51b106a830c9a65164c2ad2129c308e6753",
+      "filename": "emoticons/f5f6d2b34afe3cef8114ac4f6f8632df.gif",
+      "format": "gif",
+      "size": 319400,
+      "caption": "灰白卡通猫在电脑前张开双臂，舒展身体"
+    },
+    {
+      "md5": "f9ab10f8efe221ff8cdd04a85ecf3dcf",
+      "sha256": "274e6afa7ee5ebe2e629b1db5e449b5968511b688f8ea8538612fb60c354678b",
+      "filename": "emoticons/f9ab10f8efe221ff8cdd04a85ecf3dcf.gif",
+      "format": "gif",
+      "size": 224263,
+      "caption": "卡通猫趴在桌面上看手机，头顶小气泡，困倦睡着"
+    },
+    {
+      "md5": "fce77d6aa7d4465866f867f67ae72779",
+      "sha256": "311a8cb39f93fe3e4a42412522858e65b555a316595f390a78f340c153117a03",
+      "filename": "emoticons/fce77d6aa7d4465866f867f67ae72779.gif",
+      "format": "gif",
+      "size": 480464,
+      "caption": "卡通猫在电脑键盘前抱着红色零食罐，边吃边摸鱼"
+    },
+    {
+      "md5": "fd9f9753c8ccda7275fbf3d6fa68b595",
+      "sha256": "01395603ca148f3f5601b329a83719395b27c332f69cd55f7076ab1066babc58",
+      "filename": "emoticons/fd9f9753c8ccda7275fbf3d6fa68b595.gif",
+      "format": "gif",
+      "size": 237437,
+      "caption": "卡通猫低头看手机；文字：对方正在找表情"
+    },
+    {
+      "md5": "ff65ef397a2dab30d322ad6ae4c8f483",
+      "sha256": "d435c27a618b50c19b159778018ffe574a915f4981a04d02a70286b2539ef9c4",
+      "filename": "emoticons/ff65ef397a2dab30d322ad6ae4c8f483.gif",
+      "format": "gif",
+      "size": 1031361,
+      "caption": "长发女子眯眼皱眉，嫌弃无语的表情"
+    }
+  ]
+}

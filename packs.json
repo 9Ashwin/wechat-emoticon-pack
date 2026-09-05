@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "packs": [
+    {
+      "id": "curated",
+      "name": "精选",
+      "manifest": "packs/curated.json",
+      "count": 124,
+      "size": 22821282,
+      "description": "日常交流精选候选，沿用既有描述；画面与描述复核待完成",
+      "manifest_sha256": "c44524742105e07a0ce0f40fd3b2a91a27018e553815ea2850b80b2b4d50c9c9"
+    },
+    {
+      "id": "all",
+      "name": "全量",
+      "manifest": "manifest.json",
+      "count": 2638,
+      "size": 1078506374,
+      "description": "完整原图集合，保留现有 v1 清单与描述",
+      "manifest_sha256": "2fc63e31d1582c1496c7c81305712136bc6e039bf2f299c4eb1c1d696edbbc7f"
+    }
+  ]
+}

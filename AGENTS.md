@@ -8,7 +8,9 @@
 | --- | --- |
 | `README.md` | 面向使用者的介绍、安装命令、搜索与校验示例 |
 | `AGENTS.md` | Agent 安装、使用和维护流程 |
-| `manifest.json` | 唯一的图片清单，必须位于仓库根目录 |
+| `manifest.json` | 全量 v1 图片清单，必须位于仓库根目录 |
+| `packs.json` | 包目录，包含清单修订、数量与总字节数 |
+| `packs/curated.json` | 精选候选 v1 清单，与全量清单共享原图 |
 | `emoticons/` | 原图目录，文件名为 `<md5>.<format>` |
 
 当前支持 `gif`、`png`、`jpg`、`webp`。条目数、文件大小与描述以清单为准，不把 README 的快照数字当成查询结果。
@@ -86,3 +88,5 @@ Git 安装在拉取更新前查看 `git status --short`、当前分支和 remote
 - 只改文档时检查本地链接、图片预览、清单示例和可执行命令；运行 `git diff --check`。
 - 图片数量或格式分布变化时更新 README 的快照数字。始终保持根目录清单与 `emoticons/` 子目录约定。
 - 报告真实完成的检查和交付状态；没有执行远端导入、客户端展示或发布时，不声称已经完成。
+
+包目录与修订维护遵循 [素材包格式](docs/pack-format.md)。修改任意清单后运行 `python3 scripts/validate_packs.py --refresh`，再运行不带参数的完整校验和 `python3 -m unittest discover -s scripts -p 'test_*.py' -v`。修订必须按清单原始字节计算；精选候选尚未完成逐张画面复核，不把文件校验当作描述验收。
