@@ -6,16 +6,16 @@
 
 ```text
 README.md
+manifest.json
 emoticons/
-├── manifest.json
 └── <md5>.<format>
 ```
 
-`emoticons/manifest.json` 记录每张图片的 MD5、SHA-256、格式、大小和描述；图片文件使用 MD5 作为文件名，方便去重和校验。当前快照包含 2638 张本地可用原图，支持 GIF、PNG、JPG 和 WebP。
+根目录的 `manifest.json` 记录每张图片的 MD5、SHA-256、格式、大小、相对路径和描述；图片文件使用 MD5 作为文件名，方便去重和校验。当前快照包含 2638 张本地可用原图，支持 GIF、PNG、JPG 和 WebP。
 
 ## 导入
 
-将 `emoticons/` 目录作为一个表情包目录导入支持该清单格式的工具。导入器应先校验清单中的 SHA-256 和文件大小，再按 MD5 去重；重复导入不会产生重复文件。
+将仓库根目录作为一个表情包目录导入支持该清单格式的工具。导入器应读取根目录的 `manifest.json`，先校验清单中的 SHA-256 和文件大小，再按清单中的相对路径读取 `emoticons/` 下的图片并按 MD5 去重；重复导入不会产生重复文件。
 
 ## 版权
 
