@@ -5,10 +5,10 @@
       "id": "curated",
       "name": "精选",
       "manifest": "packs/curated.json",
-      "count": 124,
-      "size": 22821282,
-      "description": "日常交流精选候选，沿用既有描述；画面与描述复核待完成",
-      "manifest_sha256": "c44524742105e07a0ce0f40fd3b2a91a27018e553815ea2850b80b2b4d50c9c9"
+      "count": 120,
+      "size": 21703567,
+      "description": "日常交流精选，已按实际画面逐张复核描述",
+      "manifest_sha256": "7583486f4729acab6a1f6b605c0fac8945314b568c5782988c4f27b13c4efaac"
     },
     {
       "id": "all",

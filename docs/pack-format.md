@@ -1,6 +1,6 @@
 # 素材包目录与修订合同
 
-根目录 [manifest.json](../manifest.json) 继续保存全量 v1 清单，`collection` 保持原值。旧导入工具只需读取它与 `emoticons/`，不要求理解 [packs.json](../packs.json)。[packs/curated.json](../packs/curated.json) 是同格式的精选候选清单，所有图片路径仍相对仓库根目录，原图不复制到 `packs/`。候选沿用既有描述，画面与描述的逐张复核另行完成。
+根目录 [manifest.json](../manifest.json) 继续保存全量 v1 清单，`collection` 保持原值。旧导入工具只需读取它与 `emoticons/`，不要求理解 [packs.json](../packs.json)。[packs/curated.json](../packs/curated.json) 是同格式的精选清单，所有图片路径仍相对仓库根目录，原图不复制到 `packs/`。精选清单按实际画面逐张复核，复核范围与移除记录见[精选复核记录](curated-review.md)。
 
 ## 标准 v1 清单
 
