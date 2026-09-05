@@ -21,8 +21,8 @@
 2. 新安装可在选定的父目录执行：
 
    ```bash
-   git clone --depth 1 https://github.com/9Ashwin/wechat-emoticon-pack.git
-   cd wechat-emoticon-pack
+   git clone --depth 1 https://github.com/9Ashwin/sticker-ext.git
+   cd sticker-ext
    ```
 
 3. 如果目标目录已经存在，先检查根目录的 `manifest.json`、`emoticons/` 和 `git remote -v`，确认它确实是本仓库。复用已有安装，不覆盖已有目录或为同一用途重复下载。

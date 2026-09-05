@@ -27,8 +27,8 @@
 需要 Git。在希望存放素材的目录中执行：
 
 ```bash
-git clone --depth 1 https://github.com/9Ashwin/wechat-emoticon-pack.git
-cd wechat-emoticon-pack
+git clone --depth 1 https://github.com/9Ashwin/sticker-ext.git
+cd sticker-ext
 ```
 
 当前快照的图片内容约 **1.00 GiB**，完整克隆还需要 Git 数据的额外空间。`--depth 1` 只获取最新历史，仍会下载全部图片。也可以在仓库页面选择 **Code → Download ZIP**，解压后按同样的目录结构使用；ZIP 副本不能用 `git pull` 更新。
@@ -48,7 +48,7 @@ cd wechat-emoticon-pack
 可以把下面这段话发给拥有文件和终端工具的 Agent：
 
 ```text
-请安装并使用 https://github.com/9Ashwin/wechat-emoticon-pack 的表情包素材。
+请安装并使用 https://github.com/9Ashwin/sticker-ext 的表情包素材。
 先阅读仓库根目录的 AGENTS.md，按其中的安装流程下载到本地并校验清单。
 记录素材库的绝对路径，根据当前聊天语境搜索描述、预览候选，再展示合适的原图。
 工作中可以经常配一张应景的表情包，每次一张，避免连续重复；不要为选图耽误任务。
@@ -61,8 +61,8 @@ cd wechat-emoticon-pack
 仓库内的 `AGENTS.md` 不会自动让所有其他项目加载这份素材。可以让 Agent 在需要时读取它，也可以在已有的项目指引中追加以下内容，将占位路径替换为安装后的真实绝对路径：
 
 ```text
-本地表情包素材库：/absolute/path/wechat-emoticon-pack
-使用前读取 /absolute/path/wechat-emoticon-pack/AGENTS.md。
+本地表情包素材库：/absolute/path/sticker-ext
+使用前读取 /absolute/path/sticker-ext/AGENTS.md。
 从根目录 manifest.json 搜索描述，预览确认后展示对应原图。
 工作交流中经常用一张应景表情，避免近期重复，不延误实际任务。
 ```
@@ -108,12 +108,12 @@ for item in matches[:limit]:
 PY
 ```
 
-优先预览少量候选，再挑一张符合语境的图。如果客户端支持本地 Markdown 图片，可以使用 `![收到](/实际绝对路径/wechat-emoticon-pack/emoticons/文件名.png)`；如果支持附件上传，则交给对应的图片工具。客户端仅能输出文字时，应说明无法直接展示。
+优先预览少量候选，再挑一张符合语境的图。如果客户端支持本地 Markdown 图片，可以使用 `![收到](/实际绝对路径/sticker-ext/emoticons/文件名.png)`；如果支持附件上传，则交给对应的图片工具。客户端仅能输出文字时，应说明无法直接展示。
 
 ## 目录与清单格式
 
 ```text
-wechat-emoticon-pack/
+sticker-ext/
 ├── README.md
 ├── AGENTS.md
 ├── manifest.json
@@ -237,4 +237,4 @@ PY
 
 ## 版权
 
-图片的原始版权归相应作者或权利人所有。本仓库整理收集的素材，不授予未获授权的再发布、商业使用或二次分发权利。权利人可通过 [Issue](https://github.com/9Ashwin/wechat-emoticon-pack/issues) 提供对应文件路径，联系更正或移除。
+图片的原始版权归相应作者或权利人所有。本仓库整理收集的素材，不授予未获授权的再发布、商业使用或二次分发权利。权利人可通过 [Issue](https://github.com/9Ashwin/sticker-ext/issues) 提供对应文件路径，联系更正或移除。
