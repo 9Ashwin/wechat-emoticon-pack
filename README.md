@@ -117,6 +117,9 @@ wechat-emoticon-pack/
 ├── README.md
 ├── AGENTS.md
 ├── manifest.json
+├── packs.json
+├── packs/
+│   └── curated.json
 └── emoticons/
     ├── <md5>.gif
     ├── <md5>.png
@@ -154,6 +157,8 @@ wechat-emoticon-pack/
 | `format` | `gif`、`png`、`jpg` 或 `webp` |
 | `size` | 原始文件的字节数 |
 | `caption` | 可搜索的简短描述；格式上可省略，当前所有条目均已填写 |
+
+分包入口为 [packs.json](./packs.json)，其中 `all` 使用根目录清单，`curated` 使用精选候选清单；两者共享原图。包目录记录名称、描述、数量、总字节数及清单原始字节的 SHA-256 修订。完整约束与维护命令见[素材包格式](./docs/pack-format.md)。精选候选的画面与描述复核尚待完成。
 
 ## 更新与校验
 
