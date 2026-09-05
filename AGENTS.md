@@ -1,4 +1,4 @@
-# 表情包素材库：Agent 安装与使用指引
+# 贴纸素材库：Agent 安装与使用指引
 
 ## 项目与入口
 
@@ -10,7 +10,7 @@
 | `AGENTS.md` | Agent 安装、使用和维护流程 |
 | `manifest.json` | 全量 v1 图片清单，必须位于仓库根目录 |
 | `packs.json` | 包目录，包含清单修订、数量与总字节数 |
-| `packs/curated.json` | 精选候选 v1 清单，与全量清单共享原图 |
+| `packs/curated.json` | 精选 v1 清单，与全量清单共享原图 |
 | `emoticons/` | 原图目录，文件名为 `<md5>.<format>` |
 
 当前支持 `gif`、`png`、`jpg`、`webp`。条目数、文件大小与描述以清单为准，不把 README 的快照数字当成查询结果。
@@ -26,7 +26,7 @@
    ```
 
 3. 如果目标目录已经存在，先检查根目录的 `manifest.json`、`emoticons/` 和 `git remote -v`，确认它确实是本仓库。复用已有安装，不覆盖已有目录或为同一用途重复下载。
-4. 读取根目录清单，确认 `schema_version` 为 `1`。按 README 的“更新与校验”示例检查全部文件的路径、大小、MD5 和 SHA-256，并检查一张候选图可以正常打开。
+4. 读取根目录清单，确认 `schema_version` 为 `1`。按 README 的“更新与校验”示例检查全部文件的路径、大小、MD5 和 SHA-256，并检查精选清单中的图片可以正常打开。
 5. 报告实际安装路径、清单条目数、校验结果，以及当前客户端能否显示图片。下载完成、校验通过和对话中显示成功分别陈述，不用其中一项代替另外两项。
 
 没有 Git 时，可下载仓库 ZIP 并解压到所选目录，再做同样的校验。ZIP 副本的更新需重新下载，不执行 `git pull`。文档的命令示例使用 Bash 和 Python 3；其他环境可通过等价的文件与终端工具完成。
@@ -89,4 +89,4 @@ Git 安装在拉取更新前查看 `git status --short`、当前分支和 remote
 - 图片数量或格式分布变化时更新 README 的快照数字。始终保持根目录清单与 `emoticons/` 子目录约定。
 - 报告真实完成的检查和交付状态；没有执行远端导入、客户端展示或发布时，不声称已经完成。
 
-包目录与修订维护遵循 [素材包格式](docs/pack-format.md)。修改任意清单后运行 `python3 scripts/validate_packs.py --refresh`，再运行不带参数的完整校验和 `python3 -m unittest discover -s scripts -p 'test_*.py' -v`。修订必须按清单原始字节计算；精选候选尚未完成逐张画面复核，不把文件校验当作描述验收。
+包目录与修订维护遵循 [素材包格式](docs/pack-format.md)。修改任意清单后运行 `python3 scripts/validate_packs.py --refresh`，再运行不带参数的完整校验和 `python3 -m unittest discover -s scripts -p 'test_*.py' -v`。修订必须按清单原始字节计算；精选清单的画面与描述复核记录在 [精选复核记录](docs/curated-review.md)。

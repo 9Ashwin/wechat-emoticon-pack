@@ -112,7 +112,7 @@
       "filename": "emoticons/107f72b1a66933432c577b1b3bf57527.gif",
       "format": "gif",
       "size": 29394,
-      "caption": "白色圆环加载图标，等待缓冲"
+      "caption": "白色圆环加载图标，最后显示图片无法加载；等待或加载失败"
     },
     {
       "md5": "10e745faed9d13698d812e1c6819020e",
@@ -371,14 +371,6 @@
       "caption": "两只卡通猫手机聊天，上方空白对话气泡"
     },
     {
-      "md5": "5151c15956f75e8fcca23a02b6e2b3ad",
-      "sha256": "e43b76bc9de6ef51917e4bfa801e156d54d5bca3a0e195b1560fce2ee3c6528c",
-      "filename": "emoticons/5151c15956f75e8fcca23a02b6e2b3ad.png",
-      "format": "png",
-      "size": 337244,
-      "caption": "橘猫举着黑色枪口朝镜头，威胁式搞怪"
-    },
-    {
       "md5": "51c563913ed6f2309db87fee8eeccfec",
       "sha256": "fae79e5c75d3403a838d83babae87617c72a7b8990622b337d58662d3b67b448",
       "filename": "emoticons/51c563913ed6f2309db87fee8eeccfec.png",
@@ -473,14 +465,6 @@
       "format": "gif",
       "size": 113948,
       "caption": "橘色小猫与灰白猫挤在一起看手机，贴贴分享"
-    },
-    {
-      "md5": "6a320a24e577dbcb284e5ec147e52262",
-      "sha256": "48c545f50095bc26fae6abd23c2b6adb6488d793a19dcfc6726c1463b08d8d1a",
-      "filename": "emoticons/6a320a24e577dbcb284e5ec147e52262.gif",
-      "format": "gif",
-      "size": 305368,
-      "caption": "灰白卡通猫抓着白色圆形气球状物，悬挂造型"
     },
     {
       "md5": "6a7f0ec93b46988340221d6bc7fbf205",
@@ -616,7 +600,7 @@
       "filename": "emoticons/8970dad3529edc81c12e5436449db78d.gif",
       "format": "gif",
       "size": 253025,
-      "caption": "两只卡通猫分屏手机聊天，灰白猫伸手回应"
+      "caption": "两只卡通猫分屏聊天，灰白猫举手机回应；随后显示离线，等待回应"
     },
     {
       "md5": "8ba86a18054ce9828e1d443e09c90cd5",
@@ -705,14 +689,6 @@
       "format": "gif",
       "size": 3354,
       "caption": "黄色笑脸捂脸张嘴，哭笑不得"
-    },
-    {
-      "md5": "ab97752d0c155850d50c1ca2b858efe4",
-      "sha256": "05d9197f7da1dfbcead5073cf112d894329f3c8f3483e575eecf8b1446170f16",
-      "filename": "emoticons/ab97752d0c155850d50c1ca2b858efe4.png",
-      "format": "png",
-      "size": 27166,
-      "caption": "蓝色路牌：我在公司很想死；拼音 ZHE GE BAN，厌班吐槽"
     },
     {
       "md5": "ae919a14c84f62ab494f03bdd444aeb0",
@@ -809,14 +785,6 @@
       "format": "gif",
       "size": 187776,
       "caption": "两只卡通猫分屏，灰白猫举手顶起画面边框，探头互动"
-    },
-    {
-      "md5": "c822eab6d5474d3685695b0dfcbfc080",
-      "sha256": "73e826f3c5faef216cee540b5ea6eabb124cbb9cbf9035411b81d71b8ea0b032",
-      "filename": "emoticons/c822eab6d5474d3685695b0dfcbfc080.gif",
-      "format": "gif",
-      "size": 447937,
-      "caption": "黄色衣物和灰色毛绒物体的搞笑动图"
     },
     {
       "md5": "ccbad3c969d187f4bb622a4fe987c72f",
