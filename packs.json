@@ -14,10 +14,10 @@
       "id": "all",
       "name": "全量",
       "manifest": "manifest.json",
-      "count": 2638,
-      "size": 1078506374,
+      "count": 2594,
+      "size": 1036217774,
       "description": "完整原图集合，保留现有 v1 清单与描述",
-      "manifest_sha256": "f2ff64b2199e6ad735f7a0ac812613e40c220aa23e2d93c9f7712dad93202f2c"
+      "manifest_sha256": "c215e2163870ea950373b6c950f02c6405cced8d3e35d400abc3da230d4008df"
     }
   ]
 }
